@@ -17,5 +17,5 @@ It scans reviews, detects AI-written content, and visually highlights suspicious
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/fake-review-detector.git
+   https://github.com/JadenBritto/fake-review-detector-extension-final.git
 
