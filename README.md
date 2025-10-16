@@ -18,4 +18,5 @@ It scans reviews, detects AI-written content, and visually highlights suspicious
 1. Clone this repository:
    ```bash
    https://github.com/JadenBritto/fake-review-detector-extension-final.git
-
+2. Go to google extensions and turn on Developer mode
+3. Add the file 
