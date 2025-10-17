@@ -1,5 +1,5 @@
 // Store API key securely
-let SAPLING_API_KEY = 'ONE7EY18PC3M0KI4LQCQJDZ16PIZAS97';
+let SAPLING_API_KEY = 'Paste your key';
 
 // Load API key from storage
 
